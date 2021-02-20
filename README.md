@@ -1,1 +1,3 @@
-# lemonade
+Lemonade is a sweetened lemon-flavored beverage.
+
+There are varieties of lemonade found throughout the world. In North America and South Asia, cloudy lemonade dominates. It is traditionally a homemade drink using lemon juice, water, and a sweetener such as cane sugar, simple syrup or honey.In the United Kingdom and Australia, clear lemonade, a carbonated drink, is more common.[self-published source?] Despite the differences between the drinks, each is known simply as "lemonade" in countries where it is dominant.
